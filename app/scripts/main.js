@@ -5,8 +5,6 @@
  * Take a look at http://browserify.org/ for more info
  */
 
-'use strict';
-
 var App = require('./app.js');
 
 var app = new App();
